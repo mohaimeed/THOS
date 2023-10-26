@@ -11,4 +11,8 @@ THOS dataset contains different label categories.
 3. **Sub-topics**: Columns 10-41 represent low-level speech's targets (i.e. groups within each of the aforementioned topics).
 
 
-
+Please cite the following:
+@article{almohaimeedthos,
+  title={THOS: A Benchmark Dataset for Targeted Hate and Offensive Speech},
+  author={Almohaimeed, Saad and Almohaimeed, Saleh and Shafin, Ashfaq Ali and Carbunar, Bogdan and B{\"o}l{\"o}ni, Ladislau}
+}
