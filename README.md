@@ -11,7 +11,7 @@ THOS dataset contains different label categories.
 3. **Sub-topics**: Columns 10-41 represent low-level speech's targets (i.e. groups within each of the aforementioned topics).
 
 
-Please cite the following:
+Please cite:
 
 ~~~
 @article{almohaimeedthos,
