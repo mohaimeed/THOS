@@ -14,8 +14,12 @@ THOS dataset contains different label categories.
 Please cite:
 
 ~~~
-@article{almohaimeedthos,
-  title={THOS: A Benchmark Dataset for Targeted Hate and Offensive Speech},
-  author={Almohaimeed, Saad and Almohaimeed, Saleh and Shafin, Ashfaq Ali and Carbunar, Bogdan and B{\"o}l{\"o}ni, Ladislau}
+@inproceedings{SaadAlmohaimeed-2023-DMLR,
+  author = {Saad Almohaimeed and Saleh Almohaimeed and Ashfaq Ali Shafin and Bogdan Carbunar and Ladislau Bölöni},
+  title = "{THOS}: A Benchmark Dataset for Targeted Hate and Offensive Speech",
+  year = "2023",
+  month = "July",
+  booktitle = "Proc. of Data-centric Machine Learning Research (DMLR) Workshop at ICML 2023",
+  doi              = "10.48550/arXiv.2311.06446"
 }
 ~~~
