@@ -15,7 +15,7 @@ Please cite:
 
 ~~~
 @inproceedings{SaadAlmohaimeed-2023-DMLR,
-  author = {Saad Almohaimeed and Saleh Almohaimeed and Ashfaq Ali Shafin and Bogdan Carbunar and Ladislau Bölöni},
+  author = {Saad Almohaimeed, Saleh Almohaimeed, Ashfaq Ali Shafin, Bogdan Carbunar, Ladislau Bölöni},
   title = "{THOS}: A Benchmark Dataset for Targeted Hate and Offensive Speech",
   year = "2023",
   month = "July",
